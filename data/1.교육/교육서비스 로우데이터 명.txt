@@ -1,0 +1,9 @@
+V-WORLD 디지털트윈국토
+https://www.vworld.kr/dtmk/dtmk_ntads_s001.do
+홈-다운로드-공간정보 다운로드-"학교기본정보" 검색
+
+교육-교육시설-학교기본정보(초)	TN_SIDDIMSM_P.xlsx 
+교육-교육시설-학교기본정보(중)	TN_SIDDIMSM_M.xlsx
+교육-교육시설-학교기본정보(고)	TN_SIDDIMSM_H.xlsx
+교육-교육시설-학교기본정보(특수)	TN_SIDDIMSM_S.xlsx
+교육-교육시설-학교기본정보(그외)	TN_SIDDIMSM_E.xlsx

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MapDocument xmlns="http://www.all4land.com" Type="1.0">
+    <Layer>
+        <Layer Type="FeatureLayer" Visible="true">
+            <PathID>nlsp_003001001nlsp_003001001</PathID>
+            <MaximumScale>1000000000000</MaximumScale>
+            <MinimumScale>0</MinimumScale>
+            <ClassBreakRenderer Field="val">
+                <ClassBreakValue>
+                    <Value>42276</Value>
+                    <Label>42,275 - 52,141 이하</Label>
+                    <FillSymbol>
+                        <Color>#CC4704</Color>
+                        <Opacity>120</Opacity>
+                        <Style>100</Style>
+                        <LineSymbol>
+                            <Color>#E6E6E6</Color>
+                            <Opacity>255</Opacity>
+                            <Style>0</Style>
+                            <Width>2</Width>
+                        </LineSymbol>
+                    </FillSymbol>
+                </ClassBreakValue>
+                <ClassBreakValue>
+                    <Value>31736</Value>
+                    <Label>31,735 - 42,275 이하</Label>
+                    <FillSymbol>
+                        <Color>#F16913</Color>
+                        <Opacity>120</Opacity>
+                        <Style>100</Style>
+                        <LineSymbol>
+                            <Color>#E6E6E6</Color>
+                            <Opacity>255</Opacity>
+                            <Style>0</Style>
+                            <Width>2</Width>
+                        </LineSymbol>
+                    </FillSymbol>
+                </ClassBreakValue>
+                <ClassBreakValue>
+                    <Value>22907</Value>
+                    <Label>22,906 - 31,735 이하</Label>
+                    <FillSymbol>
+                        <Color>#FD8D3C</Color>
+                        <Opacity>120</Opacity>
+                        <Style>100</Style>
+                        <LineSymbol>
+                            <Color>#E6E6E6</Color>
+                            <Opacity>255</Opacity>
+                            <Style>0</Style>
+                            <Width>2</Width>
+                        </LineSymbol>
+                    </FillSymbol>
+                </ClassBreakValue>
+                <ClassBreakValue>
+                    <Value>16600</Value>
+                    <Label>16,599 - 22,906 이하</Label>
+                    <FillSymbol>
+                        <Color>#FDAE6B</Color>
+                        <Opacity>120</Opacity>
+                        <Style>100</Style>
+                        <LineSymbol>
+                            <Color>#E6E6E6</Color>
+                            <Opacity>255</Opacity>
+                            <Style>0</Style>
+                            <Width>2</Width>
+                        </LineSymbol>
+                    </FillSymbol>
+                </ClassBreakValue>
+                <ClassBreakValue>
+                    <Value>10612</Value>
+                    <Label>10,611 - 16,599 이하</Label>
+                    <FillSymbol>
+                        <Color>#FDD0A2</Color>
+                        <Opacity>120</Opacity>
+                        <Style>100</Style>
+                        <LineSymbol>
+                            <Color>#E6E6E6</Color>
+                            <Opacity>255</Opacity>
+                            <Style>0</Style>
+                            <Width>2</Width>
+                        </LineSymbol>
+                    </FillSymbol>
+                </ClassBreakValue>
+                <ClassBreakValue>
+                    <Value>4900</Value>
+                    <Label>4,899 - 10,611 이하</Label>
+                    <FillSymbol>
+                        <Color>#FEE6CE</Color>
+                        <Opacity>120</Opacity>
+                        <Style>100</Style>
+                        <LineSymbol>
+                            <Color>#E6E6E6</Color>
+                            <Opacity>255</Opacity>
+                            <Style>0</Style>
+                            <Width>2</Width>
+                        </LineSymbol>
+                    </FillSymbol>
+                </ClassBreakValue>
+                <ClassBreakValue>
+                    <Value>0</Value>
+                    <Label>4,899 이하</Label>
+                    <FillSymbol>
+                        <Color>#FFF5EB</Color>
+                        <Opacity>120</Opacity>
+                        <Style>100</Style>
+                        <LineSymbol>
+                            <Color>#E6E6E6</Color>
+                            <Opacity>255</Opacity>
+                            <Style>0</Style>
+                            <Width>2</Width>
+                        </LineSymbol>
+                    </FillSymbol>
+                </ClassBreakValue>
+                <ClassBreakValue>
+                    <Value>NULL</Value>
+                    <Label>통계없음</Label>
+                    <FillSymbol>
+                        <Color>#FFFFFF</Color>
+                        <Opacity>0</Opacity>
+                        <Style>100</Style>
+                        <LineSymbol>
+                            <Color>#E6E6E6</Color>
+                            <Opacity>255</Opacity>
+                            <Style>0</Style>
+                            <Width>2</Width>
+                        </LineSymbol>
+                    </FillSymbol>
+                </ClassBreakValue>
+            </ClassBreakRenderer>
+        </Layer>
+    </Layer>
+</MapDocument>
